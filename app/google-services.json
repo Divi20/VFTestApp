@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "469106463825",
+    "firebase_url": "https://vftestapp-b8e4b.firebaseio.com",
+    "project_id": "vftestapp-b8e4b",
+    "storage_bucket": "vftestapp-b8e4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469106463825:android:f42ec5b0c0c571a1f3d470",
+        "android_client_info": {
+          "package_name": "com.example.vftestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469106463825-d3ev0ju7k3102jakuqtheerrdhqept1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vftestapp",
+            "certificate_hash": "d507bc6c03d626b09afd82db378d6b630876bc26"
+          }
+        },
+        {
+          "client_id": "469106463825-1db2bdq55vdbcmln81ihsi268nrpd5pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzH9-qbKCuCefKfHNpEU4rHkm3FMf0Cfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469106463825-1db2bdq55vdbcmln81ihsi268nrpd5pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
